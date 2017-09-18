@@ -1,0 +1,2413 @@
+{
+  "catalogue": {
+    "name": "Covenant Ground Forces",
+    "id": "48fa-9813-1dc1-d3af",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "6631-3ba7-47d8-b3df",
+    "gameSystemRevision": 1,
+    "revision": 10,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "New EntryLink",
+        "id": "5fbd-29bc-bccd-9303",
+        "hidden": false,
+        "targetId": "5097-c273-a60b-a4f6",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "5fbd-29bc-bccd-9303-0744-a0c8-3431-ff6e", "hidden": false, "primary": true, "targetId": "0744-a0c8-3431-ff6e"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "f9d5-8e77-2a6d-e630",
+        "hidden": false,
+        "targetId": "fdbb-01b3-1552-9b78",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "f9d5-8e77-2a6d-e630-0744-a0c8-3431-ff6e", "hidden": false, "primary": true, "targetId": "0744-a0c8-3431-ff6e"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "b0f3-3537-3d39-2dba",
+        "hidden": false,
+        "targetId": "bb8c-a54a-8dda-a4ae",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "b0f3-3537-3d39-2dba-870a-81aa-e07c-3d01", "hidden": false, "primary": true, "targetId": "870a-81aa-e07c-3d01"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "584f-8e8d-86d3-63ad",
+        "hidden": false,
+        "targetId": "4348-db42-9be0-c9a8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "584f-8e8d-86d3-63ad-870a-81aa-e07c-3d01", "hidden": false, "primary": true, "targetId": "870a-81aa-e07c-3d01"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "e457-92c0-6d32-e07f",
+        "hidden": false,
+        "targetId": "0328-8755-095b-685a",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "e457-92c0-6d32-e07f-870a-81aa-e07c-3d01", "hidden": false, "primary": true, "targetId": "870a-81aa-e07c-3d01"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "3527-163d-4486-f707",
+        "hidden": false,
+        "targetId": "ccaa-1ab3-b6b3-aea0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "3527-163d-4486-f707-0744-a0c8-3431-ff6e", "hidden": false, "primary": true, "targetId": "0744-a0c8-3431-ff6e"}]
+      },
+      {
+        "name": "Phantom - Type 52 Troop Carrier",
+        "id": "1588-135e-9bb1-9ed2",
+        "hidden": false,
+        "targetId": "0d2f-3c74-952c-aa16",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "1588-135e-9bb1-9ed2-7c35-1431-7aeb-f459", "hidden": false, "primary": true, "targetId": "7c35-1431-7aeb-f459"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "f65c-de96-aaf9-f7df",
+        "hidden": false,
+        "targetId": "586d-1a5c-212e-ff14",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "f65c-de96-aaf9-f7df-870a-81aa-e07c-3d01", "hidden": false, "primary": true, "targetId": "870a-81aa-e07c-3d01"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "f800-b1e6-3fd4-a30f",
+        "hidden": false,
+        "targetId": "566e-52fe-4238-d9ed",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "f800-b1e6-3fd4-a30f-0744-a0c8-3431-ff6e", "hidden": false, "primary": true, "targetId": "0744-a0c8-3431-ff6e"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "976a-ad5c-c87e-6480",
+        "hidden": false,
+        "targetId": "6eb4-2710-255a-5321",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "976a-ad5c-c87e-6480-0744-a0c8-3431-ff6e", "hidden": false, "primary": true, "targetId": "0744-a0c8-3431-ff6e"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "00b3-aae8-ecb4-9243",
+        "hidden": false,
+        "targetId": "cc52-c4ce-5e31-f9a8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "00b3-aae8-ecb4-9243-870a-81aa-e07c-3d01", "hidden": false, "primary": true, "targetId": "870a-81aa-e07c-3d01"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "4bf2-9fb3-38e1-0f32",
+        "hidden": false,
+        "targetId": "7c18-938c-1579-fc8c",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "4bf2-9fb3-38e1-0f32-870a-81aa-e07c-3d01", "hidden": false, "primary": true, "targetId": "870a-81aa-e07c-3d01"}]
+      },
+      {
+        "name": "New EntryLink",
+        "id": "bc13-cb46-ce87-9cba",
+        "hidden": false,
+        "targetId": "383a-bb82-f425-30af",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "bc13-cb46-ce87-9cba-870a-81aa-e07c-3d01", "hidden": false, "primary": true, "targetId": "870a-81aa-e07c-3d01"}]
+      },
+      {
+        "name": "Seraph - Type 31 Exoatmospheric Strike Fighter",
+        "id": "4b90-ce1b-37dd-824c",
+        "hidden": false,
+        "targetId": "be53-33fa-1193-d236",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "88d3-d5ee-8c19-2539", "hidden": false, "primary": false, "targetId": "7c35-1431-7aeb-f459"}]
+      }
+    ],
+    "publications": [{"name": "Core", "id": "48fa-9813-pub1"}],
+    "selectionEntries": [
+      {
+        "name": "Generic Force Commander",
+        "id": "3033-d3b7-a0fa-0f59",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "3033-d3b7-a0fa-0f59-1d19-aba0-3ac5-ad1e", "hidden": false, "primary": true, "targetId": "1d19-aba0-3ac5-ad1e"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 50}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}]
+      },
+      {
+        "name": "Hunting Host Infantry Battlegroup",
+        "id": "e59e-417a-49cd-a617",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "e59e-417a-49cd-a617-2622-52fa-29f7-96bb", "hidden": false, "primary": true, "targetId": "2622-52fa-29f7-96bb"}],
+        "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "1. Requistes",
+            "id": "8bca-3f5b-5788-02a3",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "5961-7358-2b8f-2f58",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "fab4-181c-e0f8-f6cf",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "1.1 Character Infantry",
+                "id": "0ce5-5af1-bf94-f414",
+                "collective": false,
+                "defaultSelectionEntryId": "1031-e54e-1307-990e",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "bc31-0ddc-532d-1136",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "a881-4d26-b4b4-2c25",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "entryLinks": [{"name": "New EntryLink", "id": "1031-e54e-1307-990e", "hidden": false, "targetId": "586d-1a5c-212e-ff14", "type": "selectionEntry"}]
+              },
+              {
+                "name": "1.2 Infantry Units",
+                "id": "dcd9-1daf-6a3c-420b",
+                "collective": false,
+                "defaultSelectionEntryId": "de71-5742-797c-45f4",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "5225-1c08-5fcf-c179",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "4fe0-2bee-25c7-88d6",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "selectionEntries": [
+                  {
+                    "name": "Seperate Units",
+                    "id": "de71-5742-797c-45f4",
+                    "collective": false,
+                    "hidden": false,
+                    "type": "upgrade",
+                    "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+                    "entryLinks": [
+                      {
+                        "name": "New EntryLink",
+                        "id": "e467-6068-91e5-adba",
+                        "hidden": false,
+                        "targetId": "0328-8755-095b-685a",
+                        "type": "selectionEntry",
+                        "constraints": [
+                          {
+                            "id": "bc8d-0001-87ce-5b10",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "029e-655c-3e50-dbd6",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "New EntryLink",
+                        "id": "6973-35f0-8539-79a0",
+                        "hidden": false,
+                        "targetId": "0328-8755-095b-685a",
+                        "type": "selectionEntry",
+                        "constraints": [
+                          {
+                            "id": "243f-6c4d-70af-020e",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "3e23-7d3d-2ab1-57e6",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "New EntryLink",
+                        "id": "9bfa-e606-39eb-6af9",
+                        "hidden": false,
+                        "targetId": "0328-8755-095b-685a",
+                        "type": "selectionEntry",
+                        "constraints": [
+                          {
+                            "id": "91c2-a291-edc5-ca3c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "6a1b-cf61-9f76-24df",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Combined Squad",
+                    "id": "cb50-8182-b328-0c16",
+                    "collective": false,
+                    "hidden": false,
+                    "type": "upgrade",
+                    "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+                    "entryLinks": [
+                      {
+                        "name": "New EntryLink",
+                        "id": "d656-ef2d-9bc2-9972",
+                        "hidden": false,
+                        "targetId": "cc52-c4ce-5e31-f9a8",
+                        "type": "selectionEntry",
+                        "constraints": [
+                          {
+                            "id": "36b4-c5c8-3444-2902",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "8ba3-4054-5c97-5bab",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": false,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "2.1 Infantry Options",
+            "id": "80a9-6440-4411-53eb",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "1d1a-ee08-9511-6c1d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "2197-3150-347d-ed7f",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "2.1 Infantry Units",
+                "id": "76b6-3be1-9d08-0dcb",
+                "collective": false,
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "358c-9a52-f833-a125",
+                    "field": "Character",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "80a9-6440-4411-53eb",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "446f-6db2-0365-01ec",
+                    "field": "Build Rating",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "80a9-6440-4411-53eb",
+                    "shared": false,
+                    "type": "max",
+                    "value": 6
+                  }
+                ],
+                "entryLinks": [
+                  {"name": "New EntryLink", "id": "772c-6c10-99d9-ce0e", "hidden": false, "targetId": "cc52-c4ce-5e31-f9a8", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "7e2c-90a7-2795-9629", "hidden": false, "targetId": "0328-8755-095b-685a", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "d424-74db-3d06-e567", "hidden": false, "targetId": "bb8c-a54a-8dda-a4ae", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "7838-8e64-5df2-a78b", "hidden": false, "targetId": "4348-db42-9be0-c9a8", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "36f8-3034-2c7c-bb17", "hidden": false, "targetId": "7c18-938c-1579-fc8c", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "4327-a1df-286a-2b3c", "hidden": false, "targetId": "383a-bb82-f425-30af", "type": "selectionEntry"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "2.2 Armoured Options",
+            "id": "ee6e-d575-1705-7d32",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "d1a7-8802-a292-265e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "d46c-2f49-07b0-b5ee",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "2.2 Armoured Units",
+                "id": "e34f-575f-7026-fc80",
+                "collective": false,
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "7ede-0625-8f25-c43b",
+                    "field": "Build Rating",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "ee6e-d575-1705-7d32",
+                    "shared": false,
+                    "type": "max",
+                    "value": 8
+                  }
+                ],
+                "entryLinks": [
+                  {"name": "New EntryLink", "id": "ba49-7d21-8184-4799", "hidden": false, "targetId": "ccaa-1ab3-b6b3-aea0", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "4a3a-0cbc-925f-8e50", "hidden": false, "targetId": "6eb4-2710-255a-5321", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "d6a6-1991-9b79-a547", "hidden": false, "targetId": "5097-c273-a60b-a4f6", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "e123-5f99-1723-27c8", "hidden": false, "targetId": "fdbb-01b3-1552-9b78", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "d51b-46d8-5fa4-06e1", "hidden": false, "targetId": "566e-52fe-4238-d9ed", "type": "selectionEntry"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "2.3 Flyer Options",
+            "id": "0393-b9c1-d60b-053f",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "dddf-c9b2-49ae-55cf",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "c6b4-235e-16a0-bb6d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "2.3 Flyer Units",
+                "id": "5351-7f83-4f53-c94f",
+                "collective": false,
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "176b-66e4-8004-cc14",
+                    "field": "Build Rating",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "0393-b9c1-d60b-053f",
+                    "shared": false,
+                    "type": "max",
+                    "value": 6
+                  }
+                ],
+                "entryLinks": [
+                  {"name": "New EntryLink", "id": "3f19-e71e-bc26-8dc5", "hidden": false, "targetId": "0d2f-3c74-952c-aa16", "type": "selectionEntry"},
+                  {
+                    "name": "Seraph - Type 31 Exoatmospheric Strike Fighter",
+                    "id": "563b-dc13-0418-467b",
+                    "hidden": false,
+                    "targetId": "be53-33fa-1193-d236",
+                    "type": "selectionEntry"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Siege Host Armoured Battlegroup",
+        "id": "3c32-b495-2855-7a75",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "3c32-b495-2855-7a75-2622-52fa-29f7-96bb", "hidden": false, "primary": true, "targetId": "2622-52fa-29f7-96bb"}],
+        "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "1. Requistes",
+            "id": "bdcf-0329-9ceb-9ba0",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "d2b2-cbda-6091-19cb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "ab6f-1c2b-8112-760d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "rules": [
+              {
+                "name": "Group Commander",
+                "id": "933a-6c49-ab7d-32a3",
+                "description": "The Requiste Wraith - Type 26 Assault Gun Carriage in this battlegroup gains the Commanding Presence 8\" loadout for free.",
+                "hidden": false
+              }
+            ],
+            "selectionEntryGroups": [
+              {
+                "name": "1.1 Command Tank",
+                "id": "8eec-ffef-9f53-8f2b",
+                "collective": false,
+                "defaultSelectionEntryId": "0f7c-6251-1293-e845",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "3fc0-bd6b-a1a4-97a4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "7d3e-d2a1-483e-5213",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "entryLinks": [{"name": "New EntryLink", "id": "0f7c-6251-1293-e845", "hidden": false, "targetId": "6eb4-2710-255a-5321", "type": "selectionEntry"}]
+              },
+              {
+                "name": "1.2 Armoured Unit",
+                "id": "e38d-f0b5-7e7d-b27a",
+                "collective": false,
+                "defaultSelectionEntryId": "263c-01f4-ca93-9e71",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "7dfc-818b-a9d4-7b4d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "fb09-034f-5447-24f7",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "entryLinks": [{"name": "New EntryLink", "id": "263c-01f4-ca93-9e71", "hidden": false, "targetId": "5097-c273-a60b-a4f6", "type": "selectionEntry"}]
+              },
+              {
+                "name": "1.3 Armoured Unit",
+                "id": "7022-dc66-0b50-3983",
+                "collective": false,
+                "defaultSelectionEntryId": "70b4-d08c-94f3-a42b",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "9222-e90b-611d-ad9f",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "7cea-643a-3d7f-aa61",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "entryLinks": [{"name": "New EntryLink", "id": "70b4-d08c-94f3-a42b", "hidden": false, "targetId": "ccaa-1ab3-b6b3-aea0", "type": "selectionEntry"}]
+              }
+            ]
+          },
+          {
+            "name": "2.1 Infantry Options",
+            "id": "a7c8-c50e-3008-7cea",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "833d-e15e-8db6-911b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "16a1-47de-ece6-ce71",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "2.1 Infantry Units",
+                "id": "0d5b-129b-95c8-b3c1",
+                "collective": false,
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "40d1-4a6e-d7dc-4df6",
+                    "field": "Build Rating",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "a7c8-c50e-3008-7cea",
+                    "shared": false,
+                    "type": "max",
+                    "value": 4
+                  },
+                  {
+                    "id": "2e6f-48cc-d6fa-a203",
+                    "field": "Character",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "a7c8-c50e-3008-7cea",
+                    "shared": false,
+                    "type": "max",
+                    "value": 0
+                  }
+                ],
+                "entryLinks": [
+                  {"name": "New EntryLink", "id": "63b0-bb5e-6e91-88ca", "hidden": false, "targetId": "cc52-c4ce-5e31-f9a8", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "f618-2bfb-b0a9-bf84", "hidden": false, "targetId": "0328-8755-095b-685a", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "d5ab-092c-7c50-157d", "hidden": false, "targetId": "bb8c-a54a-8dda-a4ae", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "24f4-c60e-21d0-80d0", "hidden": false, "targetId": "4348-db42-9be0-c9a8", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "bc6f-fc21-5efa-e813", "hidden": false, "targetId": "383a-bb82-f425-30af", "type": "selectionEntry"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "2.2 Armoured Options",
+            "id": "f09b-29fa-c52b-0537",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "6b60-579f-55c1-f69d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "f56a-8f4a-15c4-d312",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "2.2 Armoured Units",
+                "id": "5c4d-5237-0dac-2c77",
+                "collective": false,
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "a96e-c62c-645e-6c6e",
+                    "field": "Build Rating",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "f09b-29fa-c52b-0537",
+                    "shared": false,
+                    "type": "max",
+                    "value": 10
+                  }
+                ],
+                "entryLinks": [
+                  {"name": "New EntryLink", "id": "39bd-b083-41f2-9a6c", "hidden": false, "targetId": "ccaa-1ab3-b6b3-aea0", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "4eb7-45b1-f32b-6f7f", "hidden": false, "targetId": "6eb4-2710-255a-5321", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "c27d-74ed-bda5-fef2", "hidden": false, "targetId": "5097-c273-a60b-a4f6", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "b703-d935-5e48-960f", "hidden": false, "targetId": "566e-52fe-4238-d9ed", "type": "selectionEntry"},
+                  {"name": "New EntryLink", "id": "73a5-f490-5a3e-dd55", "hidden": false, "targetId": "fdbb-01b3-1552-9b78", "type": "selectionEntry"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "2.3 Flyer Options",
+            "id": "fb58-54d2-5453-cd6d",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "6e6b-89b2-c031-21d0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "4698-26cc-2c8d-2ca0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "2.3 Flyer Units",
+                "id": "bd05-5609-1cfc-3fe2",
+                "collective": false,
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "304e-cf3c-921f-2512",
+                    "field": "Build Rating",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "fb58-54d2-5453-cd6d",
+                    "shared": false,
+                    "type": "max",
+                    "value": 6
+                  }
+                ],
+                "entryLinks": [
+                  {"name": "New EntryLink", "id": "4488-ce0f-5836-16db", "hidden": false, "targetId": "0d2f-3c74-952c-aa16", "type": "selectionEntry"},
+                  {
+                    "name": "Seraph - Type 31 Exoatmospheric Strike Fighter",
+                    "id": "c902-090c-a265-20ad",
+                    "hidden": false,
+                    "targetId": "be53-33fa-1193-d236",
+                    "type": "selectionEntry"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spectral Host Specialist Battlegroup",
+        "id": "60d8-b011-f8dd-0b69",
+        "collective": false,
+        "hidden": false,
+        "page": 32,
+        "publicationId": "48fa-9813-pub1",
+        "type": "unit",
+        "categoryLinks": [{"id": "60d8-b011-f8dd-0b69-7172-8a4b-611a-9f2c", "hidden": false, "primary": true, "targetId": "7172-8a4b-611a-9f2c"}],
+        "constraints": [
+          {
+            "id": "39db-25a4-b097-2643",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+        "rules": [
+          {"name": "Swift Death", "id": "8e97-0e65-58c7-2d30", "description": "Unknown, provisional Page 32 Core Rule Book", "hidden": false},
+          {
+            "name": "Provisional",
+            "id": "495f-af02-7ae9-f57a",
+            "description": "This Battlegroup is shown only as an example in the Core Rule Book on Page 32 and cannot be assumed as correct. Nor is there any information on the special rule: \"Swift Death\"",
+            "hidden": false
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "2.1 Flyer Options",
+            "id": "52a3-3246-fd53-5d3b",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "2738-b9be-8bb8-75e8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "4f2f-39f4-5e40-82ae",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "2.1 Flyer Units",
+                "id": "5bcb-83bf-4d50-fd89",
+                "collective": false,
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "5e6a-965d-0c95-e218",
+                    "field": "Build Rating",
+                    "includeChildForces": false,
+                    "includeChildSelections": true,
+                    "percentValue": false,
+                    "scope": "52a3-3246-fd53-5d3b",
+                    "shared": false,
+                    "type": "max",
+                    "value": 5
+                  }
+                ],
+                "entryLinks": [
+                  {"name": "Phantom - Type 52 Troop Carrier", "id": "fc0c-441e-2300-a43c", "hidden": false, "targetId": "0d2f-3c74-952c-aa16", "type": "selectionEntry"},
+                  {
+                    "name": "Seraph - Type 31 Exoatmospheric Strike Fighter",
+                    "id": "fbad-292b-1466-36fe",
+                    "hidden": false,
+                    "targetId": "be53-33fa-1193-d236",
+                    "type": "selectionEntry"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "1. Requistes",
+            "id": "f1e8-5a3a-9268-4b20",
+            "collective": false,
+            "hidden": false,
+            "type": "unit",
+            "constraints": [
+              {
+                "id": "a27d-f07f-2fce-b7c2",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "9eb0-859a-cddc-fb2e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "1.1 Elite Ghosts",
+                "id": "f295-70ea-9027-d21e",
+                "collective": false,
+                "defaultSelectionEntryId": "2ce2-3eef-10c1-e65c",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "63a4-a85e-4bbc-7082",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "44a4-20c1-0836-030a",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "entryLinks": [{"name": "New EntryLink", "id": "2ce2-3eef-10c1-e65c", "hidden": false, "targetId": "566e-52fe-4238-d9ed", "type": "selectionEntry"}]
+              },
+              {
+                "name": "1.2 Elite Ghosts",
+                "id": "92d7-16d9-2649-1517",
+                "collective": false,
+                "defaultSelectionEntryId": "2018-2fb3-f061-ef8c",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "fa1a-9f90-e2f6-3754",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "f95f-d481-e97d-2b2d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "entryLinks": [{"name": "New EntryLink", "id": "2018-2fb3-f061-ef8c", "hidden": false, "targetId": "566e-52fe-4238-d9ed", "type": "selectionEntry"}]
+              },
+              {
+                "name": "1.3 Elite Ghosts",
+                "id": "2785-42b8-85f3-7356",
+                "collective": false,
+                "defaultSelectionEntryId": "10ab-f7f0-5465-2c47",
+                "hidden": false,
+                "constraints": [
+                  {
+                    "id": "f5e4-0f79-c7b8-493b",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "013d-16a5-3292-ee9a",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": false,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "entryLinks": [{"name": "New EntryLink", "id": "10ab-f7f0-5465-2c47", "hidden": false, "targetId": "566e-52fe-4238-d9ed", "type": "selectionEntry"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Generic Force Commander",
+        "id": "3487-5e3b-d42f-5494",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "3487-5e3b-d42f-5494-cefc-8143-dc20-9bf8", "hidden": false, "primary": true, "targetId": "cefc-8143-dc20-9bf8"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 50}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Scout Ghost - Type 32 Rapid Attack Vehicle Unit",
+        "id": "ccaa-1ab3-b6b3-aea0",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+        "modifiers": [
+          {
+            "field": "Build Rating",
+            "type": "increment",
+            "value": 1,
+            "repeats": [
+              {
+                "childId": "c45f-b860-69a9-18ca",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "repeats": 1,
+                "roundUp": false,
+                "scope": "ccaa-1ab3-b6b3-aea0",
+                "shared": true,
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Units",
+            "id": "3f22-41a9-5cd5-a3ed",
+            "collective": false,
+            "defaultSelectionEntryId": "c45f-b860-69a9-18ca",
+            "hidden": false,
+            "constraints": [
+              {
+                "id": "cd60-7488-03ae-3d7e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "0325-54b3-262d-d650",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 3
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Scout Ghost - Type 32 Rapid Attack Vehicle",
+                "id": "c45f-b860-69a9-18ca",
+                "collective": false,
+                "hidden": false,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 80}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "profiles": [
+                  {
+                    "name": "Scout Ghost",
+                    "id": "d52d-b665-57f1-d0d9",
+                    "hidden": false,
+                    "typeId": "0c2c-c815-5df5-7954",
+                    "typeName": "Element - Vehicles",
+                    "characteristics": [
+                      {"name": "Type", "$text": "Armoured", "typeId": "044c-3a55-d55b-1709"},
+                      {"name": "Build Rating", "$text": "BR1", "typeId": "ae01-7a1d-b8d7-2e44"},
+                      {"name": "Move", "$text": "M12/18\"", "typeId": "7e97-86ba-d955-1777"},
+                      {"name": "Soak", "$text": "S3", "typeId": "3edc-f3a4-a208-a322"},
+                      {"name": "React", "$text": "R7/9", "typeId": "ce4c-bb8e-a67d-95d3"},
+                      {"name": "Impact", "$text": "I1", "typeId": "8fff-2157-7e90-7dd9"},
+                      {"name": "Damage", "$text": "3-3", "typeId": "337d-b81a-5845-7b97"},
+                      {"name": "Loadouts", "$text": "AI(2)", "typeId": "4e40-04b5-91dd-f57e"},
+                      {"name": "Elements", "$text": "1", "typeId": "8db8-7b95-ebfb-1ed2"}
+                    ]
+                  },
+                  {
+                    "name": "Scout Ghost - Plasma Cannon",
+                    "id": "8027-2f3f-ff76-8def",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "Front", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP6", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT4", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA3", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  }
+                ],
+                "rules": [{"name": "Diminutive", "id": "3ea4-c718-fa04-d019", "hidden": false}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Elite Zealot - Warhost Leader",
+        "id": "586d-1a5c-212e-ff14",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 3}, {"name": "pts", "typeId": "points", "value": 125}, {"name": "C", "typeId": "Character", "value": 1}],
+        "profiles": [
+          {
+            "name": "Elite Zealot - Leader - Small Arms",
+            "id": "6d96-7e3c-0e1d-3c3f",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP7", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT7", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA6", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Elite Zealot - Leader",
+            "id": "baf6-ac31-08dc-e21c",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Character Infantry", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR3", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R7/9", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M8", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "0-8", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "A(INF), BH(6), CP(6\"), F, HS(LEA), R", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "1", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Elite Zealot - Leader - Plasma Grenades",
+            "id": "3f9b-35ae-ce1c-5c1b",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP5", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT3", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grunts - Levies Unit",
+        "id": "0328-8755-095b-685a",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 1}, {"name": "pts", "typeId": "points", "value": 80}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Grunts - Levies Unit",
+            "id": "8e82-1631-48a7-1c78",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR1", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R9/11", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M1", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "0-2", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "None", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "4", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Grunts - Plasma Grenades",
+            "id": "7905-41db-defa-2d3e",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP2", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Grunts - Small Arms",
+            "id": "bde1-6681-e704-ea0b",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R12\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP2", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA2", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Weapon Upgrade",
+            "id": "7271-6f31-8173-e9ea",
+            "collective": false,
+            "hidden": false,
+            "constraints": [
+              {
+                "id": "6ca6-216e-ddf7-31fa",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "One Fuel Rod Cannons Base",
+                "id": "507e-ea88-0fdd-3745",
+                "collective": false,
+                "hidden": false,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 15}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "profiles": [
+                  {
+                    "name": "Grunts - Fuel Rod Cannons",
+                    "id": "dfc2-edc9-e4f1-ad4e",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R16\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Deverstating (ARM)", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP2", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT5", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA1", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Warrior Upgrade",
+            "id": "0c9c-6580-ace7-b4ce",
+            "collective": false,
+            "hidden": false,
+            "constraints": [
+              {
+                "id": "e728-57da-83d7-b1ec",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "One Elite Base",
+                "id": "028d-63fc-d1e3-8e93",
+                "collective": false,
+                "hidden": false,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "profiles": [
+                  {
+                    "name": "Elite Minor - Overseer Base",
+                    "id": "2400-f0d4-4477-666c",
+                    "hidden": false,
+                    "typeId": "64a0-7713-dd08-5a9d",
+                    "typeName": "Element - Infantry",
+                    "characteristics": [
+                      {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+                      {"name": "Build Rating", "$text": "BR0", "typeId": "c2f2-7f0a-32f4-37b7"},
+                      {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+                      {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+                      {"name": "React", "$text": "R7/10", "typeId": "8199-6003-2847-9797"},
+                      {"name": "Melee", "$text": "M3", "typeId": "7e67-d86f-5377-b64e"},
+                      {"name": "Damage", "$text": "0-4", "typeId": "7543-31e5-03f6-f160"},
+                      {"name": "Loadouts", "$text": "BH(1), HS(LEA)", "typeId": "45af-dd89-bc47-d2af"},
+                      {"name": "Elements", "$text": "1", "typeId": "1c7b-2321-f006-d674"}
+                    ]
+                  },
+                  {
+                    "name": "Elite Minor - Plasma Grenades",
+                    "id": "cb6c-a822-216f-a847",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP3", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  },
+                  {
+                    "name": "Elite Minor - Small Arms",
+                    "id": "7b81-7c8d-2cf7-f151",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R12\"/-1", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP4", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA2", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grunts - Levies Lance Unit",
+        "id": "cc52-c4ce-5e31-f9a8",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 3}, {"name": "pts", "typeId": "points", "value": 240}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Grunts - Levies Lance Unit",
+            "id": "6bc8-7241-b490-1a20",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR1", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R9/11", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M1", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "0-2", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "None", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "12", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Grunts - Plasma Grenades",
+            "id": "dcfe-259e-f3b1-627c",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP2", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Grunts - Small Arms",
+            "id": "8217-b29c-b74d-1d37",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R12\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP2", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA2", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Weapon Upgrade",
+            "id": "25b0-731d-77ce-ece0",
+            "collective": false,
+            "hidden": false,
+            "constraints": [
+              {
+                "id": "75c7-e7f5-4805-b312",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 3
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "One Fuel Rod Cannons Base",
+                "id": "baf5-1092-a691-0196",
+                "collective": false,
+                "hidden": false,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 15}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "profiles": [
+                  {
+                    "name": "Grunts - Fuel Rod Cannons",
+                    "id": "675c-facd-63b9-2a98",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R16\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Deverstating (ARM)", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP2", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT5", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA1", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Warrior Upgrade",
+            "id": "367a-7201-c364-d944",
+            "collective": false,
+            "hidden": false,
+            "constraints": [
+              {
+                "id": "30ad-49b1-fadb-54d2",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 3
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "One Elite Base",
+                "id": "ae6f-c39f-61b4-9e42",
+                "collective": false,
+                "hidden": false,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "profiles": [
+                  {
+                    "name": "Elite Minor - Overseer Base",
+                    "id": "28a0-f647-3632-c21f",
+                    "hidden": false,
+                    "typeId": "64a0-7713-dd08-5a9d",
+                    "typeName": "Element - Infantry",
+                    "characteristics": [
+                      {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+                      {"name": "Build Rating", "$text": "BR0", "typeId": "c2f2-7f0a-32f4-37b7"},
+                      {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+                      {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+                      {"name": "React", "$text": "R7/10", "typeId": "8199-6003-2847-9797"},
+                      {"name": "Melee", "$text": "M3", "typeId": "7e67-d86f-5377-b64e"},
+                      {"name": "Damage", "$text": "0-4", "typeId": "7543-31e5-03f6-f160"},
+                      {"name": "Loadouts", "$text": "BH(1), HS(LEA)", "typeId": "45af-dd89-bc47-d2af"},
+                      {"name": "Elements", "$text": "1", "typeId": "1c7b-2321-f006-d674"}
+                    ]
+                  },
+                  {
+                    "name": "Elite Minor - Plasma Grenades",
+                    "id": "38b1-c73d-a689-54c5",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP3", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  },
+                  {
+                    "name": "Elite Minor - Small Arms",
+                    "id": "25a9-1ef4-039a-ce35",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R12\"/-1", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP4", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA2", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hunters - Mgalekgolo Battle Congregation",
+        "id": "fdbb-01b3-1552-9b78",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "pts", "typeId": "points", "value": 240}, {"name": "BR", "typeId": "Build Rating", "value": 4}],
+        "profiles": [
+          {
+            "name": "Hunters - Mgalekgolo Battle Congregation",
+            "id": "b34d-aaed-2938-9c8f",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Armoured", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR2 each", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R11/13", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M6", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "6-6", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "BH(3), HR", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "2", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Hunters - Assault Cannon",
+            "id": "6eb9-48c7-b932-2cec",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R20\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP6", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT6", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA3", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "rules": [
+          {"name": "Gestalt Creatures", "id": "ac1d-5066-4774-2f00", "hidden": false},
+          {"name": "Hunter Shield", "id": "b6b1-071e-11c3-02b1", "hidden": false},
+          {"name": "Spirit Bond", "id": "0785-f67d-167f-2d58", "hidden": false}
+        ]
+      },
+      {
+        "name": "Phantom - Type 52 Troop Carrier",
+        "id": "0d2f-3c74-952c-aa16",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 5}, {"name": "pts", "typeId": "points", "value": 250}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Phantom - Type 52 Troop Carrier",
+            "id": "5dc0-c704-395b-1818",
+            "hidden": false,
+            "typeId": "0c2c-c815-5df5-7954",
+            "typeName": "Element - Vehicles",
+            "characteristics": [
+              {"name": "Type", "$text": "FLYER", "typeId": "044c-3a55-d55b-1709"},
+              {"name": "Build Rating", "$text": "BR5", "typeId": "ae01-7a1d-b8d7-2e44"},
+              {"name": "Move", "$text": "ASF", "typeId": "7e97-86ba-d955-1777"},
+              {"name": "Soak", "$text": "S5", "typeId": "3edc-f3a4-a208-a322"},
+              {"name": "React", "$text": "R-", "typeId": "ce4c-bb8e-a67d-95d3"},
+              {"name": "Impact", "$text": "I-", "typeId": "8fff-2157-7e90-7dd9"},
+              {"name": "Damage", "$text": "6-5-5", "typeId": "337d-b81a-5845-7b97"},
+              {"name": "Loadouts", "$text": "DO", "typeId": "4e40-04b5-91dd-f57e"},
+              {"name": "Elements", "$text": "1", "typeId": "8db8-7b95-ebfb-1ed2"}
+            ]
+          },
+          {
+            "name": "Phantom - Heavy Plasma Cannon",
+            "id": "9cc5-69f2-ebd8-eece",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R15\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "FRONT", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP6", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT12", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA8", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Phantom - Plasma Cannons",
+            "id": "36f9-ab73-e3a0-c4e4",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R15\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "L & G", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP8", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT6", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA4", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "rules": [{"name": "Air Support Missions", "id": "9029-1c04-52fe-520c", "hidden": false}]
+      },
+      {
+        "name": "Anti-Air Wraith - Type 52 Anti-Aircraft Artillery",
+        "id": "5097-c273-a60b-a4f6",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 4}, {"name": "pts", "typeId": "points", "value": 250}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Anti-Air Wraith - Type 52 Anti-Aircraft Artillery",
+            "id": "a553-dd8b-b3ed-8428",
+            "hidden": false,
+            "typeId": "0c2c-c815-5df5-7954",
+            "typeName": "Element - Vehicles",
+            "characteristics": [
+              {"name": "Type", "$text": "Armoured", "typeId": "044c-3a55-d55b-1709"},
+              {"name": "Build Rating", "$text": "BR4", "typeId": "ae01-7a1d-b8d7-2e44"},
+              {"name": "Move", "$text": "M6/12\"", "typeId": "7e97-86ba-d955-1777"},
+              {"name": "Soak", "$text": "S4", "typeId": "3edc-f3a4-a208-a322"},
+              {"name": "React", "$text": "R11/13", "typeId": "ce4c-bb8e-a67d-95d3"},
+              {"name": "Impact", "$text": "I2", "typeId": "8fff-2157-7e90-7dd9"},
+              {"name": "Damage", "$text": "5-5-5", "typeId": "337d-b81a-5845-7b97"},
+              {"name": "Loadouts", "$text": "AI(1), STS", "typeId": "4e40-04b5-91dd-f57e"},
+              {"name": "Elements", "$text": "1", "typeId": "8db8-7b95-ebfb-1ed2"}
+            ]
+          },
+          {
+            "name": "Anti-Air Wraith - Fuel Rod Battery",
+            "id": "d0f3-2abe-2da1-0b3f",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R20/40\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Deverstating (FLY), Deverstating (INF), Indirect Fire", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "FRONT", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP2", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT12", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA12", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Anti-Air Wraith - Medium Plasma Cannon",
+            "id": "713e-fa66-3981-4a0c",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "FRONT", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP6", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT4", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA3", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wraith - Type 26 Assault Gun Carriage",
+        "id": "6eb4-2710-255a-5321",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 4}, {"name": "pts", "typeId": "points", "value": 250}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Wraith - Type 26 Assault Gun Carriage",
+            "id": "c4db-3572-7231-b8d9",
+            "hidden": false,
+            "typeId": "0c2c-c815-5df5-7954",
+            "typeName": "Element - Vehicles",
+            "characteristics": [
+              {"name": "Type", "$text": "Armoured", "typeId": "044c-3a55-d55b-1709"},
+              {"name": "Build Rating", "$text": "BR4", "typeId": "ae01-7a1d-b8d7-2e44"},
+              {"name": "Move", "$text": "M6/12\"", "typeId": "7e97-86ba-d955-1777"},
+              {"name": "Soak", "$text": "S4", "typeId": "3edc-f3a4-a208-a322"},
+              {"name": "React", "$text": "R11/13", "typeId": "ce4c-bb8e-a67d-95d3"},
+              {"name": "Impact", "$text": "I2", "typeId": "8fff-2157-7e90-7dd9"},
+              {"name": "Damage", "$text": "5-5-5", "typeId": "337d-b81a-5845-7b97"},
+              {"name": "Loadouts", "$text": "AI(1)", "typeId": "4e40-04b5-91dd-f57e"},
+              {"name": "Elements", "$text": "1", "typeId": "8db8-7b95-ebfb-1ed2"}
+            ]
+          },
+          {
+            "name": "Wraith - Plasma Mortar",
+            "id": "4f6b-1d9f-87f3-d22a",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R10/40\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Deverstating (INF), Indirect Fire", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "FRONT", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP15", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT8", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA2", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Wraith - Medium Plasma Cannon",
+            "id": "1fc7-ddee-75f6-fb41",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "FRONT", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP6", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT4", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA3", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "rules": [{"name": "Heavy Ordnance", "id": "43a2-35eb-de1c-03f1", "hidden": false}]
+      },
+      {
+        "name": "Storm Ghost - Type 32 Rapid Attack Vehicle Unit",
+        "id": "566e-52fe-4238-d9ed",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}, {"name": "pts", "typeId": "points", "value": 0}],
+        "modifiers": [
+          {
+            "field": "Build Rating",
+            "type": "increment",
+            "value": 2,
+            "repeats": [
+              {
+                "childId": "cda4-61ce-40e0-8cc3",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "repeats": 1,
+                "roundUp": false,
+                "scope": "566e-52fe-4238-d9ed",
+                "shared": true,
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Units",
+            "id": "d8c3-5fc5-4d75-74b3",
+            "collective": false,
+            "defaultSelectionEntryId": "cda4-61ce-40e0-8cc3",
+            "hidden": false,
+            "constraints": [
+              {
+                "id": "02b7-c7d6-5abf-873d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "bc11-f6cf-6138-a4c0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": false,
+                "type": "max",
+                "value": 3
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Storm Ghost - Type 32 Rapid Attack Vehicle",
+                "id": "cda4-61ce-40e0-8cc3",
+                "collective": false,
+                "hidden": false,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 100}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "profiles": [
+                  {
+                    "name": "Storm Ghost",
+                    "id": "a2e3-b28d-859e-c4f1",
+                    "hidden": false,
+                    "typeId": "0c2c-c815-5df5-7954",
+                    "typeName": "Element - Vehicles",
+                    "characteristics": [
+                      {"name": "Type", "$text": "Armoured", "typeId": "044c-3a55-d55b-1709"},
+                      {"name": "Build Rating", "$text": "BR2", "typeId": "ae01-7a1d-b8d7-2e44"},
+                      {"name": "Move", "$text": "M12/18\"", "typeId": "7e97-86ba-d955-1777"},
+                      {"name": "Soak", "$text": "S4", "typeId": "3edc-f3a4-a208-a322"},
+                      {"name": "React", "$text": "R6/8", "typeId": "ce4c-bb8e-a67d-95d3"},
+                      {"name": "Impact", "$text": "I2", "typeId": "8fff-2157-7e90-7dd9"},
+                      {"name": "Damage", "$text": "4-4", "typeId": "337d-b81a-5845-7b97"},
+                      {"name": "Loadouts", "$text": "AI(2)", "typeId": "4e40-04b5-91dd-f57e"},
+                      {"name": "Elements", "$text": "1", "typeId": "8db8-7b95-ebfb-1ed2"}
+                    ]
+                  },
+                  {
+                    "name": "Storm Ghost - Plasma Cannon",
+                    "id": "d4c8-eda8-b4ed-925e",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "Front", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP6", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT4", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA3", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  }
+                ],
+                "rules": [{"name": "Diminutive", "id": "ccbb-f473-dfbc-9030", "hidden": false}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jackal Marksmen - Scout Executors Unit",
+        "id": "bb8c-a54a-8dda-a4ae",
+        "collective": false,
+        "hidden": false,
+        "type": "upgrade",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 2}, {"name": "pts", "typeId": "points", "value": 120}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Jackal Marksmen - Scout Executors Unit",
+            "id": "f928-7204-4d48-62d7",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR2", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M8/12\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R7/9", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M1", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "0-3", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "E", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "4", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Jackal Marksmen - Needle Rifle",
+            "id": "6294-74cf-a5c5-63e1",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R12/24\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Cooldown, Pinpoint (INF)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP4", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT1", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "rules": [{"name": "Instinctive Shot", "id": "e388-6db2-2496-dff7", "hidden": false}]
+      },
+      {
+        "name": "Jackal Assault - Shock Unit",
+        "id": "4348-db42-9be0-c9a8",
+        "collective": false,
+        "hidden": false,
+        "type": "upgrade",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 1}, {"name": "pts", "typeId": "points", "value": 120}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Jackal Assault - Shock Unit",
+            "id": "a126-3e91-c654-ca00",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR1", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M8/12\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R6/8", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M2", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "0-3", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "E, HS(TRO)", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "4", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Jackal Assault - Small Arms",
+            "id": "0f69-fd4c-3d59-51d6",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R12/-\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP3", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT2", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA1", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Jackal Assault - Plasma Grenades",
+            "id": "29fa-5226-3798-aac4",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP4", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT1", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "rules": [{"name": "Shield Wall", "id": "9b69-1190-c9b3-c946", "hidden": false}]
+      },
+      {
+        "name": "Elite Officer - Warhost Obedientiary",
+        "id": "7c18-938c-1579-fc8c",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 2}, {"name": "pts", "typeId": "points", "value": 100}, {"name": "C", "typeId": "Character", "value": 1}],
+        "profiles": [
+          {
+            "name": "Elite Officer - Small Arms",
+            "id": "dccf-db7b-61c1-5f1e",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP8", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT8", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA7", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Elite Officer - Warhost Obedientiary",
+            "id": "8c65-330b-a62e-a24e",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Character Infantry", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR2", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R6/8", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M6", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "0-6", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "A(ANY), BH(3), CP(12\"), F, HS(LEA), R", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "1", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Elite Officer - Plasma Grenades",
+            "id": "bbf9-e6dd-28c2-1d9d",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP5", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT3", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Elite Ultra Unit - Evocati",
+        "id": "383a-bb82-f425-30af",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 3}, {"name": "pts", "typeId": "points", "value": 180}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Elite Ultra Unit - Evocati",
+            "id": "11b2-d8d6-a6b6-73b2",
+            "hidden": false,
+            "typeId": "64a0-7713-dd08-5a9d",
+            "typeName": "Element - Infantry",
+            "characteristics": [
+              {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+              {"name": "Build Rating", "$text": "BR3", "typeId": "c2f2-7f0a-32f4-37b7"},
+              {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+              {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+              {"name": "React", "$text": "R7/9", "typeId": "8199-6003-2847-9797"},
+              {"name": "Melee", "$text": "M4", "typeId": "7e67-d86f-5377-b64e"},
+              {"name": "Damage", "$text": "0-5", "typeId": "7543-31e5-03f6-f160"},
+              {"name": "Loadouts", "$text": "BH(2), F, HS(LEA)", "typeId": "45af-dd89-bc47-d2af"},
+              {"name": "Elements", "$text": "3", "typeId": "1c7b-2321-f006-d674"}
+            ]
+          },
+          {
+            "name": "Elite Ultra Unit - Small Arms",
+            "id": "5cd2-cf28-2c60-6cf9",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Point Blank (+1), Suppression (+2)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP5", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT4", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA2", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          },
+          {
+            "name": "Elite Ultra Unit - Plasma Grenades",
+            "id": "7567-e29a-1d49-9677",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP4", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT4", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "rules": [{"name": "Chosen of the Prophets", "id": "0b92-4bee-bc0b-ae3d", "hidden": false}, {"name": "Combat Specialists", "id": "2366-1e1a-f9c5-4b15", "hidden": false}],
+        "selectionEntryGroups": [
+          {
+            "name": "Officer Upgrade",
+            "id": "cbbd-baa1-1aa8-f403",
+            "collective": false,
+            "hidden": false,
+            "constraints": [
+              {
+                "id": "533f-97cf-5a53-6dd2",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "One Elite Ultra Officer Base",
+                "id": "0511-863a-ba40-a118",
+                "collective": false,
+                "hidden": false,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 30}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "profiles": [
+                  {
+                    "name": "Elite Ultra Officer Base",
+                    "id": "deb4-b473-bece-9ed4",
+                    "hidden": false,
+                    "typeId": "64a0-7713-dd08-5a9d",
+                    "typeName": "Element - Infantry",
+                    "characteristics": [
+                      {"name": "Type", "$text": "Infantry", "typeId": "3042-33d5-e5ca-996e"},
+                      {"name": "Build Rating", "$text": "BR0", "typeId": "c2f2-7f0a-32f4-37b7"},
+                      {"name": "Move", "$text": "M6/9\"", "typeId": "a71c-3460-0bd5-85d1"},
+                      {"name": "Soak", "$text": "S0", "typeId": "8f99-9d90-0ee7-5d9e"},
+                      {"name": "React", "$text": "R7/8", "typeId": "8199-6003-2847-9797"},
+                      {"name": "Melee", "$text": "M5", "typeId": "7e67-d86f-5377-b64e"},
+                      {"name": "Damage", "$text": "0-5", "typeId": "7543-31e5-03f6-f160"},
+                      {"name": "Loadouts", "$text": "BH(2), F, HS(LEA), R", "typeId": "45af-dd89-bc47-d2af"},
+                      {"name": "Elements", "$text": "1", "typeId": "1c7b-2321-f006-d674"}
+                    ]
+                  },
+                  {
+                    "name": "Elite Ultra Officer - Plasma Grenades",
+                    "id": "2596-ccb7-405f-5078",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R6\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Blast, Cooldown", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP4", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT4", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA0", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  },
+                  {
+                    "name": "Elite Ultra Officer - Small Arms",
+                    "id": "e39b-53f6-e0bc-5018",
+                    "hidden": false,
+                    "typeId": "6c7a-4fe3-9ca0-168a",
+                    "typeName": "Unit Weapons",
+                    "characteristics": [
+                      {"name": "Range", "$text": "R10/20\"", "typeId": "b105-0b2d-c20d-2f77"},
+                      {"name": "Weapon Loadouts", "$text": "Point Blank (+1), Suppression (+2)", "typeId": "7758-d23e-b312-134e"},
+                      {"name": "Arc", "$text": "ALL", "typeId": "dc58-10d6-a1f0-3f09"},
+                      {"name": "AP", "$text": "AP6", "typeId": "b639-e494-578f-979d"},
+                      {"name": "AT", "$text": "AT5", "typeId": "9217-7144-1e94-683d"},
+                      {"name": "AA", "$text": "AA4", "typeId": "70d2-0215-d018-d05e"}
+                    ]
+                  }
+                ],
+                "rules": [{"name": "Chosen of the Prophets", "id": "b451-f31a-5951-1cb4", "hidden": false}]
+              }
+            ]
+          },
+          {
+            "name": "Unit Upgrades",
+            "id": "ceeb-d4d6-b305-d17f",
+            "collective": false,
+            "hidden": false,
+            "selectionEntries": [
+              {
+                "name": "Death From Above",
+                "id": "896d-3060-62fc-3414",
+                "collective": false,
+                "hidden": false,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "7ce7-dabd-c3d9-71a4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": "C", "typeId": "Character", "value": 0}, {"name": "BR", "typeId": "Build Rating", "value": 0}],
+                "rules": [{"name": "Orbital Insertion", "id": "c935-5d47-8195-d073", "hidden": false}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Seraph - Type 31 Exoatmospheric Strike Fighter",
+        "id": "be53-33fa-1193-d236",
+        "collective": false,
+        "hidden": false,
+        "type": "unit",
+        "costs": [{"name": "BR", "typeId": "Build Rating", "value": 3}, {"name": "pts", "typeId": "points", "value": 180}, {"name": "C", "typeId": "Character", "value": 0}],
+        "profiles": [
+          {
+            "name": "Seraph - Type 31 Exoatmospheric Strike Fighter",
+            "id": "9f79-ab53-c1ba-97a9",
+            "hidden": false,
+            "typeId": "0c2c-c815-5df5-7954",
+            "typeName": "Element - Vehicles",
+            "characteristics": [
+              {"name": "Type", "$text": "FLYER", "typeId": "044c-3a55-d55b-1709"},
+              {"name": "Build Rating", "$text": "BR3", "typeId": "ae01-7a1d-b8d7-2e44"},
+              {"name": "Move", "$text": "ASF", "typeId": "7e97-86ba-d955-1777"},
+              {"name": "Soak", "$text": "S6", "typeId": "3edc-f3a4-a208-a322"},
+              {"name": "React", "$text": "R-", "typeId": "ce4c-bb8e-a67d-95d3"},
+              {"name": "Impact", "$text": "I-", "typeId": "8fff-2157-7e90-7dd9"},
+              {"name": "Damage", "$text": "5-4-3", "typeId": "337d-b81a-5845-7b97"},
+              {"name": "Loadouts", "typeId": "4e40-04b5-91dd-f57e"},
+              {"name": "Elements", "$text": "1", "typeId": "8db8-7b95-ebfb-1ed2"}
+            ]
+          },
+          {
+            "name": "Seraph - Heavy Plasma Cannons",
+            "id": "cb0a-ede6-f2fc-54ce",
+            "hidden": false,
+            "typeId": "6c7a-4fe3-9ca0-168a",
+            "typeName": "Unit Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "R20\"/-", "typeId": "b105-0b2d-c20d-2f77"},
+              {"name": "Weapon Loadouts", "$text": "Devastating (ALL), Point Blank (+1)", "typeId": "7758-d23e-b312-134e"},
+              {"name": "Arc", "$text": "FRONT", "typeId": "dc58-10d6-a1f0-3f09"},
+              {"name": "AP", "$text": "AP13", "typeId": "b639-e494-578f-979d"},
+              {"name": "AT", "$text": "AT9", "typeId": "9217-7144-1e94-683d"},
+              {"name": "AA", "$text": "AA13", "typeId": "70d2-0215-d018-d05e"}
+            ]
+          }
+        ],
+        "rules": [{"name": "Air Support Missions", "id": "eb7f-3735-9e18-dd92", "hidden": false}]
+      }
+    ]
+  }
+}
